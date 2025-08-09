@@ -1,0 +1,14 @@
+title = "Variables Quiz"
+[[questions]]
+prompt = "What keyword makes a variable mutable?"
+options = ["let", "mut", "let mut", "var"]
+answer_index = 2
+
+[[questions]]
+prompt = "Are variables immutable or mutable by default in Rust?"
+options = ["mutable", "immutable"]
+answer_index = 1
+
+
+
+
