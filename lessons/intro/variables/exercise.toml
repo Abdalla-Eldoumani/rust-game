@@ -1,0 +1,6 @@
+title = "Intro: Variables"
+difficulty = "beginner"
+hint = "Use `let` and `let mut`; ensure the function returns 42."
+timeout_secs = 15
+
+
