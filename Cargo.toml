@@ -1,0 +1,40 @@
+[package]
+name = "rust-game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+thiserror = "1"
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+toml = "0.8"
+walkdir = "2"
+dirs = "5"
+tempfile = "3"
+wait-timeout = "0.2"
+indicatif = "0.17"
+colored = "2"
+eframe = { version = "0.27", default-features = false, features = ["default_fonts","glow"] }
+egui = "0.27"
+webbrowser = "0.8"
+rusqlite = { version = "0.31", features = ["bundled"] }
+bcrypt = "0.15"
+
+[dev-dependencies]
+assert_cmd = "2"
+predicates = "3"
+serde_json = "1"
+
+[profile.dev]
+incremental = true
+codegen-units = 16
+opt-level = 1
+
+[profile.dev.package."*"]
+opt-level = 3
+
+[[bin]]
+name = "rust-game-gui"
+path = "src/bin/gui.rs"
