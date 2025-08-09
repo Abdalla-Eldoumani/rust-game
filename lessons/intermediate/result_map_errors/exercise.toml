@@ -1,0 +1,6 @@
+title = "Results: Map and Collect Errors"
+difficulty = "intermediate"
+hint = "Use .iter().map(parse).collect::<Result<Vec<_>, _>>();"
+timeout_secs = 20
+
+
