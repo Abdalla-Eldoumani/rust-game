@@ -1,0 +1,6 @@
+title = "Iterators: Ownership & Borrowing"
+difficulty = "intermediate"
+hint = "Use into_iter to take ownership or iter() with cloned() to duplicate."
+timeout_secs = 20
+
+
