@@ -1,0 +1,6 @@
+title = "Intro: Pattern Matching Ergonomics"
+difficulty = "beginner"
+hint = "Use match with guards and destructuring."
+timeout_secs = 15
+
+
