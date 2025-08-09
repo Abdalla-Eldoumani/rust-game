@@ -1,0 +1,6 @@
+title = "Smart Pointers: Rc<RefCell<>>"
+difficulty = "intermediate"
+hint = "Wrap shared Vec in Rc<RefCell<Vec<i32>>> and borrow_mut to push."
+timeout_secs = 25
+
+
