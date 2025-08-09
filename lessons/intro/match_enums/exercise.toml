@@ -1,0 +1,6 @@
+title = "Intro: Match & Enums"
+difficulty = "beginner"
+hint = "Use a match on the enum and cover all variants."
+timeout_secs = 15
+
+
