@@ -1,0 +1,6 @@
+title = "Error Handling: thiserror"
+difficulty = "intermediate"
+hint = "Define an enum with #[derive(thiserror::Error)] and implement Display."
+timeout_secs = 20
+
+
