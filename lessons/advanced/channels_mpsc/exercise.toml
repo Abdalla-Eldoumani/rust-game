@@ -1,0 +1,6 @@
+title = "Concurrency: mpsc Channels"
+difficulty = "advanced"
+hint = "Use std::sync::mpsc; spawn workers, send results, and collect."
+timeout_secs = 30
+
+
