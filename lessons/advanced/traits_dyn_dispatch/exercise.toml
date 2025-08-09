@@ -1,0 +1,6 @@
+title = "Traits: dyn Dispatch"
+difficulty = "advanced"
+hint = "Define a trait Shape with area(), use Box<dyn Shape> to sum areas."
+timeout_secs = 30
+
+
