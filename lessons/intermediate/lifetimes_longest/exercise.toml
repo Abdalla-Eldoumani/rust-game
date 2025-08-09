@@ -1,0 +1,6 @@
+title = "Lifetimes: Longest String"
+difficulty = "intermediate"
+hint = "Tie the output lifetime to the shorter of the inputs: fn longest<'a>(a: &'a str, b: &'a str) -> &'a str."
+timeout_secs = 20
+
+
