@@ -1,0 +1,6 @@
+title = "Intro: Control Flow & Loops"
+difficulty = "beginner"
+hint = "Use a loop with break when sum exceeds limit; continue for negatives."
+timeout_secs = 15
+
+
