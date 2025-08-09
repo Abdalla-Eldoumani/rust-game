@@ -1,0 +1,6 @@
+title = "Async: Tokio mpsc"
+difficulty = "advanced"
+hint = "Use tokio::sync::mpsc; spawn tasks and collect received values."
+timeout_secs = 40
+
+
