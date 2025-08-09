@@ -1,0 +1,6 @@
+title = "Concurrency: Arc<Mutex<>> Counter"
+difficulty = "advanced"
+hint = "Wrap the counter in Arc<Mutex<i32>>, clone Arc into threads, lock before increment. Join all threads."
+timeout_secs = 30
+
+
