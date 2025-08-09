@@ -1,0 +1,6 @@
+title = "Intro: HashMap"
+difficulty = "beginner"
+hint = "Use a HashMap to count occurrences; return most frequent value"
+timeout_secs = 15
+
+
