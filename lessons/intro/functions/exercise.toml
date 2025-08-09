@@ -1,0 +1,6 @@
+title = "Intro: Functions"
+difficulty = "beginner"
+hint = "Define a function with two i32 params and return their sum."
+timeout_secs = 15
+
+
