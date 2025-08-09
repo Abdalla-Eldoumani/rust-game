@@ -1,0 +1,6 @@
+title = "Intro: Iterators"
+difficulty = "beginner"
+hint = "Use iter().filter(|&&n| n % 2 == 0).map(|&n| n*n).sum::<i32>()"
+timeout_secs = 15
+
+
