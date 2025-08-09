@@ -1,0 +1,6 @@
+title = "Intro: Result & Error"
+difficulty = "beginner"
+hint = "Return Result<i32, String>; Err on parse failure using name.to_string()."
+timeout_secs = 15
+
+
