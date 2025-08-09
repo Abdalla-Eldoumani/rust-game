@@ -1,0 +1,6 @@
+title = "Intro: Traits"
+difficulty = "beginner"
+hint = "Define a trait Describable with describe(&self)->String, impl for Person; blanket impl not needed"
+timeout_secs = 15
+
+
