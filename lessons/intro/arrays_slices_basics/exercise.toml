@@ -1,0 +1,6 @@
+title = "Intro: Arrays & Slices Basics"
+difficulty = "beginner"
+hint = "Use slice.len() to cap n and iterate the first n elements."
+timeout_secs = 15
+
+
