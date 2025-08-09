@@ -1,0 +1,6 @@
+title = "Intro: Slices & Borrowing"
+difficulty = "beginner"
+hint = "Borrow slices; return a subslice using &arr[start..end]."
+timeout_secs = 15
+
+
