@@ -1,0 +1,6 @@
+title = "Intro: Ownership & Borrowing"
+difficulty = "beginner"
+hint = "Borrow with &str rather than moving a String."
+timeout_secs = 20
+
+
