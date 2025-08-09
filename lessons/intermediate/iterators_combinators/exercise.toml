@@ -1,0 +1,10 @@
+title = "Iterators: Combinators"
+difficulty = "intermediate"
+hint = "Use iter().filter_map(|s| s.parse::<i32>().ok()).take(5).sum::<i32>()"
+timeout_secs = 20
+
+
+
+
+
+
